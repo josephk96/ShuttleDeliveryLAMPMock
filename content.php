@@ -1,3 +1,3 @@
 <?php
-        echo "mpnng";
+        echo "egimy";
 ?>
