@@ -6,5 +6,4 @@
         echo "vdtok";
         echo "ccghm";
         echo "vevmp";
-        echo "dhgye";
 ?>
