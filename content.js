@@ -1,1 +1,1 @@
-console.log("yapim")
+console.log("wrroq")
