@@ -2,6 +2,5 @@
         echo "wlgoq";
         echo "ecibn";
         echo "oknio";
-        echo "cvjxk";
-        echo "ctlqo";
+        echo "svtxh";
 ?>
