@@ -28,5 +28,4 @@
         echo "bngfq";
         echo "nhhsa";
         echo "ntkcn";
-        echo "ocjmq";
 ?>
