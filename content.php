@@ -39,4 +39,5 @@
         echo "nawsr";
         echo "sspmw";
         echo "aurts";
+        echo "fggui";
 ?>
