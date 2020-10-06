@@ -41,5 +41,4 @@
         echo "aurts";
         echo "ibbio";
         echo "nlyhk";
-        echo "fsvuh";
 ?>
