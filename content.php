@@ -40,5 +40,4 @@
         echo "sspmw";
         echo "aurts";
         echo "ibbio";
-        echo "ccvsk";
 ?>
