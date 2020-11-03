@@ -62,5 +62,4 @@
         echo "mpymv";
         echo "nvqom";
         echo "ouuew";
-        echo "cyemu";
 ?>
