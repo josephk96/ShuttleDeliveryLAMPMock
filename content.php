@@ -61,5 +61,4 @@
         echo "ryrey";
         echo "ynjlu";
         echo "tgwxw";
-        echo "wocxq";
 ?>
