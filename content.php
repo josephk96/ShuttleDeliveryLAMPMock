@@ -65,5 +65,4 @@
         echo "mlpec";
         echo "ycpip";
         echo "asqwo";
-        echo "iqcid";
 ?>
