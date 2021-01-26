@@ -1,3 +1,3 @@
 SELECT * from pbkgn;
 SELECT * from blfrv;
-SELECT * from esryd;
+SELECT * from qpriq;
