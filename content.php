@@ -72,5 +72,4 @@
         echo "gvlob";
         echo "fuwma";
         echo "fxdgn";
-        echo "wacad";
 ?>
