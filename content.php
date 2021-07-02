@@ -85,5 +85,4 @@
         echo "yfaap";
         echo "srdsu";
         echo "jppyk";
-        echo "aycis";
 ?>
