@@ -1,4 +1,4 @@
-**This is a mock repository.** 
+**This is a mock repository that imports contribution history from Shuttle Delivery's fullstack LAMP app repo on BitBucket.** 
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
 
